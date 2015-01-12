@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"template",
+				"TEMPLATE_DIRS"
+			],
+			[
+				"STATi",
+				"STATICFILES_DIRS"
+			],
+			[
+				"STAT",
+				"STATICFILES_DIRS"
+			],
+			[
+				"static",
+				"staticfiles"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"uni",
+				"unittest"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
 				"http",
 				"http_status"
 			],
@@ -486,34 +514,6 @@
 			[
 				"page",
 				"pagePost"
-			],
-			[
-				"pae",
-				"pagePost"
-			],
-			[
-				"inf",
-				"inferHasCtaCreate"
-			],
-			[
-				"cal",
-				"calls_to_action"
-			],
-			[
-				"ato",
-				"atomicCreative"
-			],
-			[
-				"is",
-				"isStandard"
-			],
-			[
-				"wi",
-				"withCta"
-			],
-			[
-				"update",
-				"updateParams"
 			]
 		]
 	},
@@ -523,15 +523,19 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 207.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
-				"install",
+				"instl",
 				"Package Control: Install Package"
 			],
 			[
 				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
 				"Package Control: Install Package"
 			],
 			[
@@ -769,10 +773,23 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/afrimpong/projects/python_projects/TaskBuster"
+		"/Users/afrimpong/projects/python_projects/TaskBuster",
+		"/Users/afrimpong/projects/python_projects/TaskBuster/functional_tests",
+		"/Users/afrimpong/projects/python_projects/TaskBuster/requirements",
+		"/Users/afrimpong/projects/python_projects/TaskBuster/taskbuster",
+		"/Users/afrimpong/projects/python_projects/TaskBuster/taskbuster/settings",
+		"/Users/afrimpong/projects/python_projects/TaskBuster/taskbuster/static"
 	],
 	"file_history":
 	[
+		"/Users/afrimpong/projects/python_projects/TaskBuster/functional_tests/all_users_test.py",
+		"/Users/afrimpong/projects/python_projects/TaskBuster/taskbuster/settings/base.py",
+		"/Users/afrimpong/projects/python_projects/TaskBuster/taskbuster/settings/testing.py",
+		"/Users/afrimpong/projects/python_projects/TaskBuster/taskbuster/settings/development.py",
+		"/Users/afrimpong/projects/python_projects/TaskBuster/taskbuster/settings/staging.py",
+		"/Users/afrimpong/projects/python_projects/TaskBuster/taskbuster/settings/production.py",
+		"/Users/afrimpong/projects/python_projects/TaskBuster/requirements/base.txt",
+		"/Users/afrimpong/projects/python_projects/TaskBuster/taskbuster/settings/__init__.py",
 		"/Users/afrimpong/projects/python_projects/TaskBuster/TaskBuster",
 		"/Users/afrimpong/Desktop/dev_server/dev/apps/core/configs/t1api.default.ini",
 		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/api/advertiser.php",
@@ -892,19 +909,11 @@
 		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/lib/traffic_scale.js",
 		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/lib/util/t1_connection.js",
 		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/lib/util/xml.js",
-		"/Users/afrimpong/projects/node_apps/NodeExpressMongo/express.js",
-		"/Users/afrimpong/projects/node_apps/example-sqlize-app/config/config.json",
-		"/Users/afrimpong/projects/node_apps/NodeExpressMongo/express.test.js",
-		"/Users/afrimpong/projects/node_apps/example-sequelize-app/node_modules/body-parser/Makefile",
-		"/Users/afrimpong/Desktop/dev_server/dev/apps/fbx/www/views/partials/concept_select.handlebars",
-		"/Users/afrimpong/Desktop/dev_server/dev/apps/fbx/www/ajax/post.update.creative.php",
-		"/Users/afrimpong/Desktop/dev_server/dev/apps/fbx/core/t1apicore2/FBXService.php",
-		"/Users/afrimpong/Desktop/dev_server/dev/apps/fbx/www/common/lib/bootstrap-filestyle/src/bootstrap-filestyle.js",
-		"/Users/afrimpong/Desktop/dev_server/dev/apps/fbx_api/lib/errors.js"
+		"/Users/afrimpong/projects/node_apps/NodeExpressMongo/express.js"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -919,6 +928,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"template",
+			"error_msg",
+			"-",
 			" config_path_relative",
 			"config_path_relative",
 			"DEFAULT_CONFIG",
@@ -1043,10 +1055,7 @@
 			"!(",
 			"=(",
 			"=",
-			")",
-			"if(",
-			" (!$(",
-			"''"
+			")"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1154,7 +1163,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 188.0,
+	"side_bar_width": 245.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
