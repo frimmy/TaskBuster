@@ -1,0 +1,1162 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"http",
+				"http_status"
+			],
+			[
+				"J",
+				"toJSON()	Date"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"em",
+				"emailLookerUpper"
+			],
+			[
+				"data",
+				"databaseLookUpOfEmailAddress"
+			],
+			[
+				"mock",
+				"mockDbHelper"
+			],
+			[
+				"Purchase",
+				"PurchaseObject"
+			],
+			[
+				"stub",
+				"stubJobClient"
+			],
+			[
+				"Purcha",
+				"PurchaseConfirmationPageController"
+			],
+			[
+				"PUrchaseConfirmation",
+				"PurchaseConfirmationPageControllerTest"
+			],
+			[
+				"server",
+				"serverQueue"
+			],
+			[
+				"SUC",
+				"SUCCESS_JOB_TRANSMITTED"
+			],
+			[
+				"batch",
+				"batchJob"
+			],
+			[
+				"job",
+				"jobname"
+			],
+			[
+				"curl_e",
+				"curl_exec"
+			],
+			[
+				"current",
+				"currentJobBatch"
+			],
+			[
+				"curl",
+				"curlHandle"
+			],
+			[
+				"curr",
+				"currentJobBatch"
+			],
+			[
+				"va",
+				"var	@var"
+			],
+			[
+				"assert",
+				"assertEquals"
+			],
+			[
+				"jo",
+				"job"
+			],
+			[
+				"as",
+				"assertEquals"
+			],
+			[
+				"FAI",
+				"FAILED_DURING_RUN"
+			],
+			[
+				"recen",
+				"recentlyRunJobs"
+			],
+			[
+				"fore",
+				"forecast"
+			],
+			[
+				"frequency",
+				"frequencyCap"
+			],
+			[
+				"di",
+				"disabled	Attr"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"frequ",
+				"frequency-cap-value"
+			],
+			[
+				"col",
+				"cols	Attr"
+			],
+			[
+				"for",
+				"forecastParams"
+			],
+			[
+				"fre",
+				"frequencyCap"
+			],
+			[
+				"checke",
+				"checked"
+			],
+			[
+				"freque",
+				"frequency-cap"
+			],
+			[
+				"fad",
+				"fadeIn"
+			],
+			[
+				"valid",
+				"validateFrequencyCap"
+			],
+			[
+				"ale",
+				"alertMessage"
+			],
+			[
+				"ac",
+				"acceptedFrequencyCapPattern"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"500s",
+				"500ms"
+			],
+			[
+				"tr",
+				"trsde	transition-delay: ${1:time};"
+			],
+			[
+				"op",
+				"op	opacity"
+			],
+			[
+				"foreca",
+				"forecast-modal"
+			],
+			[
+				"fade",
+				"fadeToggle"
+			],
+			[
+				"getF",
+				"getFrequencyCap"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"input",
+				"inputSitelistExc"
+			],
+			[
+				"inputS",
+				"inputSitelistsExc"
+			],
+			[
+				"inp",
+				"inputSitelistExc"
+			],
+			[
+				"inputSite",
+				"inputSitelistInc"
+			],
+			[
+				"sitelist",
+				"sitelistType"
+			],
+			[
+				"site-",
+				"site-list-organization"
+			],
+			[
+				"new",
+				"new_e"
+			],
+			[
+				"exclu",
+				"excludedSitelists"
+			],
+			[
+				"incl",
+				"includedSitelists"
+			],
+			[
+				"site",
+				"sitelistType"
+			],
+			[
+				"checked",
+				"checkedSitelists"
+			],
+			[
+				"reset",
+				"resetAll"
+			],
+			[
+				"clear",
+				"clearPixels"
+			],
+			[
+				"clearS",
+				"clearSupply"
+			],
+			[
+				"site-l",
+				"site-list-organization-dropdown"
+			],
+			[
+				"dro",
+				"dropdownCheckbox"
+			],
+			[
+				"drop",
+				"dropdownElement"
+			],
+			[
+				"sitelists",
+				"sitelistsToReturn"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"span",
+				"spanToToggle"
+			],
+			[
+				"bidder",
+				"bidder_name"
+			],
+			[
+				"bidderz",
+				"bidderZone"
+			],
+			[
+				"ewr",
+				"ewr_bidder"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"reser",
+				"reserved_bidder"
+			],
+			[
+				"upd",
+				"updateAttributes"
+			],
+			[
+				"bidd",
+				"bidderName"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"bi",
+				"bidderName"
+			],
+			[
+				"bid",
+				"bidderName"
+			],
+			[
+				"cd",
+				"cdg_bidder"
+			],
+			[
+				"start",
+				"start_log"
+			],
+			[
+				"Bider",
+				"BidderService"
+			],
+			[
+				"ew",
+				"ewr_bidder"
+			],
+			[
+				"sitelistE",
+				"sitelistExc"
+			],
+			[
+				"che",
+				"checkedSitelists"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"res",
+				"restriction"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"forca",
+				"forecastUtils"
+			],
+			[
+				"done",
+				"doneTest"
+			],
+			[
+				"crea",
+				"createAndRetrieveForecast"
+			],
+			[
+				"route",
+				"routeTo"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"colle",
+				"collection"
+			],
+			[
+				"collec",
+				"collections"
+			],
+			[
+				"coll",
+				"collectionName"
+			],
+			[
+				"body",
+				"body-parser"
+			],
+			[
+				"exp",
+				"exp	expect"
+			],
+			[
+				"e",
+				"exp	expect"
+			],
+			[
+				"ex",
+				"expect"
+			],
+			[
+				"api",
+				"api_base"
+			],
+			[
+				"option",
+				"options"
+			],
+			[
+				"approv",
+				"approvedHTML"
+			],
+			[
+				"typ",
+				"typeof"
+			],
+			[
+				"node",
+				"node-inspector"
+			],
+			[
+				"ad",
+				"adGroupId"
+			],
+			[
+				"cta",
+				"cta_type"
+			],
+			[
+				"fbx",
+				"fbx_result"
+			],
+			[
+				"adver",
+				"advertiser"
+			],
+			[
+				"T",
+				"T1FBXMapService"
+			],
+			[
+				"re",
+				"req	require …"
+			],
+			[
+				"form",
+				"form_modal"
+			],
+			[
+				"conte",
+				"contentType"
+			],
+			[
+				"t1",
+				"t1_advertiser_id"
+			],
+			[
+				"store",
+				"storedCtaType"
+			],
+			[
+				"fb_ad",
+				"fb_ad_groups_map"
+			],
+			[
+				"retr",
+				"return"
+			],
+			[
+				"link",
+				"link_domain"
+			],
+			[
+				"page",
+				"pagePost"
+			],
+			[
+				"pae",
+				"pagePost"
+			],
+			[
+				"inf",
+				"inferHasCtaCreate"
+			],
+			[
+				"cal",
+				"calls_to_action"
+			],
+			[
+				"ato",
+				"atomicCreative"
+			],
+			[
+				"is",
+				"isStandard"
+			],
+			[
+				"wi",
+				"withCta"
+			],
+			[
+				"update",
+				"updateParams"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pat",
+				"File: Copy Path"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"mini",
+				"Minify::Minify File"
+			],
+			[
+				"min",
+				"Minify Javascript to file"
+			],
+			[
+				"minif",
+				"Minify Javascript"
+			],
+			[
+				"path",
+				"File: Copy Path From Project"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instla",
+				"Snippet: getElementsByClassName"
+			],
+			[
+				"th",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"p",
+				"phpfmt: format now"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"brwoser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"doc",
+				"Git: Document Selection"
+			],
+			[
+				"thre",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ignore",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"spel",
+				"Google Spell Check"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"docl",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"beau",
+				"Javascript Beautify"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"bracket",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"brackets",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"set ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"lin",
+				"SublimeLinter: Next Error"
+			]
+		],
+		"width": 539.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/afrimpong/projects/python_projects/TaskBuster"
+	],
+	"file_history":
+	[
+		"/Users/afrimpong/projects/python_projects/TaskBuster/TaskBuster",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/core/configs/t1api.default.ini",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/api/advertiser.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/api/supply.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/api/pixel.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/api/organization.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/js/handle-http-errors.js",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/js/index.js",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/js/triggers.js",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/api/fold.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/api/country.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/api/contextual.php",
+		"/Users/afrimpong/Desktop/dev_server/sftp-config.json",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/js/handle-http-errors",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/core/dbconnection/cfg_default.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/core/t1apicore2/T1PixelBundleService.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/core/t1apicore2/T1UserService.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/index.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/core/composer.json",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/core/t1apicore2/T1Service.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/core/t1apicore2/T1Connection.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/bulkupdater/core/t1apicore2/T1Object.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/core/t1apicore2/T1SitelistService.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/api/sitelist.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/bulkupdater/core/t1apicore2/T1Error.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/bulkupdater/core/t1apicore2/xmlparser.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/bulkupdater/processes/engine/bulk_uploader_entity.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/bulkupdater/processes/engine/bulk_uploader_campaign.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/bulkupdater/processes/engine/bulk_uploader_strategy.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/bulkupdater/processes/processor.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/bulkupdater/processes/engine/bulk_uploader.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/api/contextual.json",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/api/advertiser.organization.php",
+		"/Users/afrimpong/Desktop/dev_server/PHP_Testing_Best_Practices/JobServer.php",
+		"/Users/afrimpong/Desktop/dev_server/PHP_Testing_Best_Practices/JobClient.php",
+		"/Users/afrimpong/Desktop/dev_server/PHP_Testing_Best_Practices/tests/phpunit/JobServerTest.php",
+		"/Users/afrimpong/Desktop/dev_server/PHP_Testing_Best_Practices/tests/phpunit/ClientServerIntegrationTest.php",
+		"/Users/afrimpong/Desktop/dev_server/PHP_Testing_Best_Practices/PurchaseConfirmationPageController.php",
+		"/Users/afrimpong/Desktop/dev_server/PHP_Testing_Best_Practices/tests/phpunit/MyDataProcessorTest.php",
+		"/Users/afrimpong/Desktop/dev_server/PHP_Testing_Best_Practices/LegacyCode.php",
+		"/Users/afrimpong/Desktop/dev_server/PHP_Testing_Best_Practices/LegacyCode",
+		"/Users/afrimpong/Desktop/dev_server/PHP_Testing_Best_Practices/tests/phpunit/ClientServerIntegrationTest",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/forecast/forecast.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/csv/generate.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/forecast/functions.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/js/heapanalytics.js",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/index.main.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/index.form.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_dev_php_env/core/dbconnection/cfg.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/csv/download.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/forecast_custom.css",
+		"/Users/afrimpong/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/afrimpong/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/fbx/www/common/js/main_2014-09-29.js",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/api/pixel.search.php",
+		"/Users/afrimpong/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/afrimpong/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/afrimpong/Desktop/FOWA-Talks/3rdpartyapps.mdown",
+		"/Users/afrimpong/Desktop/FOWA-Talks/WebGL.mdown",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/public/datepicker/js/bootstrap-datepicker.js",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/public/bootstrap-dropdown-checkbox.min.js",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/public/mm_sprite.png",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/public/bootstrap-dropdown-checkbox.css",
+		"/Users/afrimpong/projects/python_projects/mongo_db_101/wk2_101/hw2-3 2/userDAO.py",
+		"/Users/afrimpong/projects/python_projects/mongo_db_101/wk2_101/hw2-3/userDAO.py",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster/README.md",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/core/dbconnection/cfg.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/t1apps_forecaster",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/fbx/lib/fbx.json",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/routes/dummy_bidder.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tests/units/forecast_test.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tests/functional/report_create_test.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tests/functional/report_view_test.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/routes/util/forecast.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/routes/reports/view.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/config/bidder.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/config/index_local.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/node_modules/mysql/lib/protocol/packets/SSLRequestPacket.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/node_modules/grunt-mocha/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/node_modules/request/request.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/node_modules/express/lib/request.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/node_modules/request/request.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/node_modules/blanket/test/requirejs/require_test.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/node_modules/grunt-blanket/node_modules/blanket/test/requirejs/require_test.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/node_modules/request/.npmignore",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/scripts/traffic/crawl.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/scripts/traffic/traffic.r",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/app.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/lib/validator.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/lib/util/validation_util.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tmp/traffic-csv/gru-adx_video_bidable.csv",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tmp/traffic-csv/gru-bidable.csv",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tests/report_create.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/routes/index.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/routes/reports/create.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/lib/forecast.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/lib/bidder.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tests/units/bidder_test.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/lib/queue.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/Gruntfile.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/package.json",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tests/fixtures/bidder-troubleshoot.html",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/forecaster.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tests/report_retrieve.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tests/helpers.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/routes/util/param_filter.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/coverage.html",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/routes/resource_not_found.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tests/monitor.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tests/template.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/coverage/blanket.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tests/resource_not_found.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tests/version.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/init.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/lib/algorithm.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tests/login.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/tests/config.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/lib/traffic_scale.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/lib/util/t1_connection.js",
+		"/Users/afrimpong/projects/node_apps/t1apps_forecaster_api/lib/util/xml.js",
+		"/Users/afrimpong/projects/node_apps/NodeExpressMongo/express.js",
+		"/Users/afrimpong/projects/node_apps/example-sqlize-app/config/config.json",
+		"/Users/afrimpong/projects/node_apps/NodeExpressMongo/express.test.js",
+		"/Users/afrimpong/projects/node_apps/example-sequelize-app/node_modules/body-parser/Makefile",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/fbx/www/views/partials/concept_select.handlebars",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/fbx/www/ajax/post.update.creative.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/fbx/core/t1apicore2/FBXService.php",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/fbx/www/common/lib/bootstrap-filestyle/src/bootstrap-filestyle.js",
+		"/Users/afrimpong/Desktop/dev_server/dev/apps/fbx_api/lib/errors.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" config_path_relative",
+			"config_path_relative",
+			"DEFAULT_CONFIG",
+			"this->config",
+			"checkHttpStatusCodeForError",
+			"http",
+			"console.log",
+			"console.log(\"error",
+			"\"json\"",
+			"$.post",
+			"json",
+			"php",
+			"organization.",
+			"organization.php",
+			"pixel.php",
+			"getPixel",
+			"searchPixel",
+			"pixel.php",
+			".php",
+			"pixel",
+			"getZone",
+			"alertMessage",
+			"validateFrequencyCap",
+			"forecastErrors",
+			"error",
+			"&page_limit=200",
+			"&page_limit=10000",
+			" getService",
+			"catch",
+			"BulkUploader",
+			"BulkUploader::process",
+			"ex",
+			"T1Exception",
+			"try",
+			"exception",
+			" find",
+			" executeCurl",
+			" fixAttributeTypes",
+			">>",
+			"<<<<<<<",
+			" processor_api_find",
+			" pxl_processor_api",
+			" find",
+			"processor_executeCurl",
+			"curl",
+			"\"ok\"",
+			" apiCall",
+			"\"ok\"",
+			"status",
+			"loadConfig",
+			"status[\"code\"]",
+			"status",
+			" apiCall",
+			"apiCall",
+			"$statuscode ",
+			"JobClient",
+			"multiBrow",
+			"multiBrowserOptions",
+			"place",
+			"runFBXForecast",
+			"runPrimaryForecast",
+			"options",
+			"var options;",
+			";\n",
+			"\n		// for multi-browser support\n		if (tOneNew.prop('options')){\n			options = tOneNew.prop('options');\n		} else {\n			options = tOneNew.attr('options');\n		}\n",
+			"// for multi-browser support\n		if (tOneNew.prop('options')){\n			options = tOneNew.prop('options');\n		} else {\n			options = tOneNew.attr('options');\n		}",
+			"(tOneNew.prop('options')",
+			"end_date_picker",
+			"start_date_picker",
+			"is_multi",
+			"new_serv",
+			"new_e",
+			"existing_e",
+			"t1_existing_val",
+			"t1_new",
+			"})\n",
+			"\n",
+			"})",
+			"var",
+			"searchPixel",
+			"checkedSitelists",
+			"var ",
+			"var",
+			"output-log-id",
+			"download",
+			"generateCSV",
+			"csv",
+			"checked",
+			"$log",
+			"getFrequencyCap",
+			"'false",
+			"false",
+			"+\"-",
+			"-\"+",
+			"pixel-\"+",
+			"+outputString",
+			"()+",
+			"+$(",
+			"+parentID",
+			"!= 'supply",
+			"ID+",
+			"id+",
+			"D+",
+			"+",
+			"+c",
+			"=\"",
+			"+pixelType",
+			" == true",
+			"== true",
+			"else{",
+			"+t",
+			"e+",
+			"+'",
+			"v+",
+			"+e",
+			"+new",
+			"+e",
+			"'+",
+			"=='",
+			"if(",
+			")!",
+			"!(",
+			"=(",
+			"=",
+			")",
+			"if(",
+			" (!$(",
+			"''"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 99.0
+	},
+	"project": "TaskBuster.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"dbconnection",
+				"dev/apps/t1apps_fbx/core/t1apicore2/T1Connection.php"
+			],
+			[
+				"x",
+				"vendor/x2js/xml2json.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
