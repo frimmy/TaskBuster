@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 from selenium.webdriver.firefox import webdriver
 from django.core.urlresolvers import reverse
-from django.contrib.staticfiles.testing import LiveServerTestCase
-import unittest
+from django.contrib.staticfiles.testing import StaticLiveServerTestCase
 
-class HomeNewVisitor(LiveServerTestCase):
+class HomeNewVisitor(StaticLiveServerTestCase):
 
 	def setUp(self):
 		self.browser = webdriver.WebDriver()
