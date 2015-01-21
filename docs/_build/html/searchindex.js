@@ -1,0 +1,1 @@
+Search.setIndex({filenames:["index"],objtypes:{},objnames:{},titleterms:{indic:0,taskbust:0,welcom:0,document:0,tabl:0},objects:{},envversion:43,titles:["Welcome to TaskBuster&#8217;s documentation!"],terms:{index:0,modul:0,page:0,search:0,content:0}})
