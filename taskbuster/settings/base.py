@@ -63,8 +63,12 @@ WSGI_APPLICATION = 'taskbuster.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'taskbuster_db',
+        'USER': get_env_variable('POSTGRESQL_USERNAME'),
+        'PASSWORD': get_env_variable('POSTGRESQL_PASSWORD'),
+        'HOST': '',
+        'PORT': '',
     }
 }
 
